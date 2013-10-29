@@ -1,0 +1,15 @@
+﻿  "style/color_scheme": ps4
+  "preset_color_schemes/ps4":
+    name: "遊驛四／ps4"
+    author: " Patricivs ipatrickmac@qq.com"
+    text_color: 0xffffff  #已選候選項顏色
+    back_color: 0x000000  #底色
+    border_color: 0x000000  #邊框色
+    label_color: 0xffffff  #序號顏色，鼠須管有效
+    hilited_text_color: 0xffffff  #編碼顏色
+    hilited_back_color: 0x575759  #編碼底色
+    candidate_text_color: 0xffffff  #候選項顏色
+    comment_text_color: 0xffffff  #編碼提示顏色
+    hilited_candidate_text_color: 0xffffff  #首選項文本顏色
+    hilited_comment_text_color: 0xffffff  #高亮編碼提示顏色
+    hilited_candidate_back_color: 0xe89f00  #首選項高亮背景色
