@@ -1,6 +1,6 @@
 ﻿  "preset_color_schemes/Tintin":
   "style/color_scheme": Tintin
-    name: " 丁丁／ Tintin"
+    name: "丁丁／ Tintin"
     author: "Patricivs ipatrickmac@me.com"
     text_color: 0xffffff
     back_color: 0xd99500

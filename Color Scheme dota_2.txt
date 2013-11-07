@@ -1,5 +1,5 @@
-﻿  "style/color_scheme": dota_2
-  "preset_color_schemes/dota_2":
+﻿  "preset_color_schemes/dota_2":
+  "style/color_scheme": dota_2
     name: "DOTA 2／dota_2"
     author: " Patricivs ipatrickmac@me.com"
     text_color: 0xffffff  #已選候選項顏色
