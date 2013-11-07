@@ -1,6 +1,6 @@
-﻿  "preset_color_schemes/kuon":
-  "style/color_scheme": kuon
-    name: "琨／kuon"
+﻿  "style/color_scheme": kuon
+  "preset_color_schemes/kuon":
+  name: "琨／kuon"
     author: " Patricivs ipatrickmac@me.com"
     text_color: 0xffffff  #已選候選項顏色
     back_color: 0x70b33e  #底色

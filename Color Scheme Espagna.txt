@@ -1,6 +1,6 @@
-﻿  "preset_color_schemes/espagna":
-  "style/color_scheme": espagna
-    name: "埃斯巴尼亞／espagna"
+﻿  "style/color_scheme": espagna
+  "preset_color_schemes/espagna":
+  name: "埃斯巴尼亞／espagna"
     author: " Patricivs ipatrickmac@me.com"
     text_color: 0xffffff  #已選候選項顏色
     back_color: 0x230dc3  #底色

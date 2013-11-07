@@ -1,6 +1,6 @@
-﻿  "preset_color_schemes/gholabok":
-  "style/color_scheme": gholabok
-    name: "胡蘿菔／gholabok"
+﻿  "style/color_scheme": gholabok
+  "preset_color_schemes/gholabok":
+  name: "胡蘿菔／gholabok"
     author: " Patricivs ipatrickmac@me.com"
     text_color: 0xffffff  #已選候選項顏色
     back_color: 0x2939e8  #底色

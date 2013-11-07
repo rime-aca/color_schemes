@@ -1,6 +1,6 @@
-﻿  "preset_color_schemes/RoC":
-  "style/color_scheme": RoC
-    name: "青天白日滿地紅／RoC"
+﻿  "style/color_scheme": RoC
+  "preset_color_schemes/RoC":
+  name: "青天白日滿地紅／RoC"
     author: "Patricivs ipatrickmac@me.com"
     text_color: 0xffffff #已選候選項顏色
     back_color: 0x3300e6 #底色

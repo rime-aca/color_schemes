@@ -1,6 +1,6 @@
-﻿  "preset_color_schemes/brasil":
-  "style/color_scheme": brasil
-    name: "笆悉／brasil"
+﻿  "style/color_scheme": brasil
+  "preset_color_schemes/brasil":
+  name: "笆悉／brasil"
     author: " Patricivs ipatrickmac@me.com"
     text_color: 0xffffff  #已選候選項顏色
     back_color: 0x559311  #底色

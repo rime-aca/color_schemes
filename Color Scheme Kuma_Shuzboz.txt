@@ -1,6 +1,6 @@
-﻿  "preset_color_schemes/kuma_shuzboz":
-  "style/color_scheme": kuma_shuzboz
-    name: "熊出沒／kuma_shuzboz"
+﻿  "style/color_scheme": kuma_shuzboz
+  "preset_color_schemes/kuma_shuzboz":
+  name: "熊出沒／kuma_shuzboz"
     author: " Patricivs ipatrickmac@me.com"
     text_color: 0x000000  #已選候選項顏色
     back_color: 0x2db6f8  #底色

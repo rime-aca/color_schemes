@@ -1,6 +1,6 @@
-﻿  "preset_color_schemes/Macau":
-  "style/color_scheme": Macau
-    name: "澳門／Macau"
+﻿  "style/color_scheme": Macau
+  "preset_color_schemes/Macau":
+  name: "澳門／Macau"
     author: "Patricivs ipatrickmac@me.com"
     text_color: 0x00d9ff  #已選候選項顏色
     back_color: 0x81a300  #底色

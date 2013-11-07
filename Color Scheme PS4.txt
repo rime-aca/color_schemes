@@ -1,6 +1,6 @@
-﻿  "preset_color_schemes/ps4":
-  "style/color_scheme": ps4
-    name: "遊驛四／ps4"
+﻿  "style/color_scheme": ps4
+  "preset_color_schemes/ps4":
+  name: "遊驛四／ps4"
     author: " Patricivs ipatrickmac@me.com"
     text_color: 0xffffff  #已選候選項顏色
     back_color: 0x000000  #底色
