@@ -19,3 +19,4 @@ Rime配色方案集
  - Tintin 丁丁
  - Xbox_Silver 銀色叉盒
  - YouTube YouTube 
+ - So_young 致青春（by五磅兔）
