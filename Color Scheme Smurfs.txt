@@ -1,0 +1,15 @@
+﻿  "style/color_scheme": smurfs
+  "preset_color_schemes/smurfs":
+    name: "藍精靈／Smurfs"
+    author: "skoj <skoj@qq.com>"
+    text_color: 0xffffff #已選候選項顏色
+    back_color: 0xbf7817  #底色
+    border_color: 0xf5ede0   #邊框色
+    label_color: 0xbf7817  #序號顏色，鼠須管有效
+    hilited_text_color: 0xdbbc6d #編碼顏色
+    hilited_back_color: 0xbf7817  #編碼底色
+    candidate_text_color: 0xf6f6f6 #候選項顏色
+    comment_text_color: 0xf6f6f6 #編碼提示顏色
+    hilited_candidate_text_color: 0xf6f6f6 #首選項文本顏色
+    hilited_comment_text_color: 0xf6f6f6 #高亮編碼提示顏色
+    hilited_candidate_back_color: 0xdbbc6d  #首選項高亮背景色
