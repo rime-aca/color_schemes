@@ -417,3 +417,15 @@ preset_color_schemes:
     hilited_candidate_text_color: 0xffffff 
     hilited_comment_text_color: 0xffffff
     hilited_candidate_back_color: 0x50c4a8
+
+  cool_breeze:
+    name: "清風／Cool Breeze"
+    author: "skoj <skoj@qq.com>"
+    text_color: 0x0000FF
+    back_color: 0xFFFBFB 
+    border_color: 0xFFAAAA
+    hilited_text_color: 0x0000CE
+    hilited_back_color: 0xFFFBFB
+    candidate_text_color: 0x009100
+    hilited_candidate_text_color: 0x6F003A
+    hilited_candidate_back_color: 0xFFD6AC    
