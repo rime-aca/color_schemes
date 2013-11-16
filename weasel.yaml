@@ -428,4 +428,19 @@ preset_color_schemes:
     hilited_back_color: 0xFFFBFB
     candidate_text_color: 0x009100
     hilited_candidate_text_color: 0x6F003A
-    hilited_candidate_back_color: 0xFFD6AC    
+    hilited_candidate_back_color: 0xFFD6AC
+
+  google+:
+    name: "Google+"
+    author: " Patricivs ipatrickmac@me.com"
+    text_color: 0xcac9c8
+    back_color: 0xffffff
+    border_color: 0x394bdd
+    label_color: 0xcac9c8
+    hilited_text_color: 0x394bdd
+    hilited_back_color: 0xffffff
+    candidate_text_color: 0x394bdd
+    comment_text_color: 0xcac9c8
+    hilited_candidate_text_color: 0xffffff
+    hilited_comment_text_color: 0xffffff
+    hilited_candidate_back_color: 0x394bdd
