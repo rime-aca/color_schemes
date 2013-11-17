@@ -21,10 +21,11 @@ Rime配色方案集
  - YouTube
  - Google+
  - StarCraft Ⅱ 星海爭霸Ⅱ
+ - Steam
  - So Young 致青春（by五磅兔）
  - Smurfs 藍精靈 （by Skoj）
  - Cool Breeze 清風 （by Skoj）
  - Brisk 輕盈 （by Skoj）
  - Modern Warfare 現代戰爭（by P1461）
 
-（2013年11月17日現在，共22種）
+（2013年11月17日現在，共23種）
