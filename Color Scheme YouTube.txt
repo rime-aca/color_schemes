@@ -1,6 +1,6 @@
-﻿  "style/color_scheme": youtube
+  "style/color_scheme": youtube
   "preset_color_schemes/youtube":
-  name: "YouTube／youtube"
+  name: "YouTube"
     author: "Patricivs ipatrickmac@me.com"
     text_color: 0x000000  #已選候選項顏色
     back_color: 0xdedede  #底色

@@ -1,6 +1,6 @@
-﻿  "style/color_scheme": nba
+  "style/color_scheme": nba
   "preset_color_schemes/nba":
-  name: "NBA／nba"
+  name: "NBA"
     author: "Patricivs ipatrickmac@me.com"
     text_color: 0xffffff  #已選候選項顏色
     back_color: 0xb76a00  #底色

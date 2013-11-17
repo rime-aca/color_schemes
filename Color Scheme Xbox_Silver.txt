@@ -1,6 +1,6 @@
-﻿  "style/color_scheme": xbox_silver
+  "style/color_scheme": xbox_silver
   "preset_color_schemes/xbox_silver":
-  name: "銀色叉盒／xbox_silver"
+  name: "銀色叉盒／Xbox Silver"
     author: "Patricivs ipatrickmac@me.com"
     text_color: 0x1fc28d  #已選候選項顏色
     back_color: 0xefeeee  #底色

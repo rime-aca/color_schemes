@@ -1,6 +1,6 @@
-﻿  "style/color_scheme": skype
+  "style/color_scheme": skype
   "preset_color_schemes/skype":
-  name: "斯蓋普／skype"
+  name: "斯蓋普／Skype"
     author: "Patricivs ipatrickmac@me.com"
     text_color: 0xffffff  #已選候選項顏色
     back_color: 0xefad00  #底色
